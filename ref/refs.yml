@@ -1,0 +1,181 @@
+openla500:
+  type: Web
+  title: openLA500
+  author: LoongsonEdu
+  url: https://gitee.com/loongson-edu/nscscc-openla500
+  date: 2022
+
+nop:
+  type: Web
+  title: "NOP: A Strong Baseline for LoongArch Out-of-order Processor"
+  author:
+    - 刘明道
+    - 高焕昂
+    - 王博文
+    - 花佳诚
+  url: https://github.com/NOP-Processor/NOP-Core
+  date: 2023
+
+geekpie:
+  type: Web
+  title: GeekPie Core
+  author:
+    - 韩乐桐
+    - 贺泽邦
+    - 赵思哲
+    - 马茂溪
+  url: https://github.com/DFPMTS/ysyx-workbench/tree/la32r
+  date: 2025
+
+la32r-linux:
+  type: Web
+  title: la32r-Linux
+  author: LoongsonEdu
+  url: https://gitee.com/loongson-edu/la32r-Linux
+  date: 2022
+
+la32r-uboot:
+  type: Web
+  title: la32r-uboot
+  author: LoongsonEdu
+  url: https://gitee.com/loongson-edu/la32r-uboot
+  date: 2022
+
+nontrivial-mips:
+  type: Web
+  title: NonTrivial-MIPS
+  author:
+    - Zhou, Y.
+    - Chen, S.
+    - Liu, X.
+    - Chen, J.
+  url: https://github.com/trivialmips/nontrivial-mips
+  date: 2020
+
+usb-host:
+  type: Web
+  title: USB Full Speed Host
+  author: ultra-embedded
+  url: https://github.com/ultra-embedded/usb_host
+  date: 2019
+
+buildroot:
+  type: Web
+  title: Buildroot
+  author: The Buildroot Developers
+  url: https://buildroot.org
+
+perceptron-hpca2001:
+  type: Article
+  title: "Dynamic Branch Prediction with Perceptrons"
+  author:
+    - Jiménez, Daniel A.
+    - Lin, Calvin
+  date: 2001
+  parent:
+    type: Proceedings
+    title: "Proceedings of the 7th International Symposium on High-Performance Computer Architecture"
+    date: 2001
+
+perceptron-micro2003:
+  type: Article
+  title: "Fast Path-Based Neural Branch Prediction"
+  author: Jiménez, Daniel A.
+  date: 2003
+  parent:
+    type: Proceedings
+    title: "Proceedings of the 36th International Symposium on Microarchitecture"
+    date: 2003
+
+tage:
+  type: Article
+  title: "A Case for (Partially) Tagged Geometric History Length Branch Prediction"
+  author:
+    - Seznec, André
+    - Michaud, Pierre
+  journal: "Journal of Instruction-Level Parallelism"
+  volume: 8
+  date: 2006
+  url: https://jilp.org/vol8/v8paper1.pdf
+
+bp-not-solved:
+  type: Article
+  title: "Branch Prediction Is Not a Solved Problem: Measurements, Opportunities, and Future Directions"
+  author:
+    - Lin, Chit-Kwan
+    - Tarsa, Stephen J.
+  date: 2019
+  url: https://arxiv.org/abs/1906.08170
+  parent:
+    type: Proceedings
+    title: "Proceedings of the IEEE International Symposium on Workload Characterization"
+    date: 2019
+
+branchnet:
+  type: Article
+  title: "BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches"
+  author:
+    - Zangeneh, Siavash
+    - Pruett, Stephen
+    - Lym, Sangkug
+    - Patt, Yale N.
+  date: 2020
+  page-range: 118-130
+  url: https://doi.org/10.1109/MICRO50266.2020.00022
+  parent:
+    type: Proceedings
+    title: "Proceedings of the 53rd Annual IEEE/ACM International Symposium on Microarchitecture"
+    date: 2020
+
+dl-bp-survey:
+  type: Article
+  title: "A Survey of Deep Learning Techniques for Dynamic Branch Prediction"
+  author: Joseph, Rinu
+  journal: "arXiv"
+  date: 2021
+  url: https://arxiv.org/abs/2112.14911
+
+boom:
+  type: Web
+  title: "BOOM: Branch Prediction"
+  author: UC Berkeley Architecture Group
+  url: https://docs.boom-core.org/en/latest/sections/branch-prediction/index.html
+  date: 2024
+
+xiangshan:
+  type: Web
+  title: "XiangShan Design Documentation: Kunminghu Frontend BPU"
+  author: ICT CAS
+  url: https://docs.xiangshan.cc/projects/design/en/kunminghu-v2/frontend/BPU/
+  date: 2024
+
+zen2:
+  type: Web
+  title: "AMD Zen 2 Microarchitecture (Hot Chips 31)"
+  author: AMD
+  url: https://old.hotchips.org/hc31/HC31_1.1_AMD_ZEN2.pdf
+  date: 2019
+
+exynos:
+  type: Article
+  title: "Evolution of the Samsung Exynos CPU Microarchitecture"
+  author:
+    - Grayson, Brian
+    - Rupley, Jeff
+    - Zuraski, Gerald
+    - Quinnell, Eric
+    - Jiménez, Daniel A.
+    - Nakra, Tarun
+  date: 2020
+  url: https://doi.org/10.1109/ISCA45697.2020.00015
+  parent:
+    type: Proceedings
+    title: "Proceedings of the 47th International Symposium on Computer Architecture"
+    date: 2020
+
+picoclaw:
+  type: Web
+  title: "PicoClaw: Ultra-Efficient AI Assistant in Go"
+  author: Sipeed
+  url: https://github.com/Sipeed/picoclaw
+  date: 2026
